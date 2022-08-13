@@ -1,4 +1,4 @@
-# RickRoll.exe
+# RickRoll.exe V1.0
 A harmless piece of jokeware made in python, compiled into an EXE file for portability without needing python or the involved libraries on the target computer.
 
 # What It Does (Step By Step)
