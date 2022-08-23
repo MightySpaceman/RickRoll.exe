@@ -1,7 +1,6 @@
 # RickRoll.py V1.0
-A harmless piece of jokeware made in python, compiled into an EXE file for portability without needing python or the involved libraries on the target computer.
-
 ### [Releases Page - (Compiled EXE)](https://github.com/MightySpaceman/RickRoll.py/releases/latest)
+A harmless piece of jokeware made in python, compiled into an EXE file for portability without needing python or the involved libraries on the target computer.
 
 # What It Does (Step By Step)
 
